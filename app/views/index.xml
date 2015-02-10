@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container" layout="vertical" onOpen="winOpen">
+		<View borderColor="red" height="50%">
+			<Widget src="com.alco.highcharts" id="pie_one"/>			
+		</View>
+		<View borderColor="blue" >
+			<Widget src="com.alco.highcharts" id="pie_two"/>						
+		</View>
+	</Window>
+</Alloy>
